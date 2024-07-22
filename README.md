@@ -8,9 +8,9 @@ This project was created to learn spring and how to configure an API
 
 Please, follow the steps bellow
 
-1. Open the folder *scriptsSQL* and execute the script *DDL_Criacao_DB_Projeto_Angular.sql* to create the project database;
+1. Open the folder */scriptsSQL* and execute the script *DDL_Criacao_DB_Projeto_Angular.sql* to create the project database;
 
-2. Create the file innside *api\src\main\resources\templates* with the name **application.propretties** if not created.
+2. Create the file innside *api/src/main/resources* with the name **application.propretties** if not created.
 ```.propreties
 
 spring.application.name=api

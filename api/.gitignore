@@ -31,5 +31,5 @@ build/
 !**/src/test/**/build/
 
 ### VS Code ###
-src/main/resources/templates/
+src/main/resources/application.properties
 .vscode/
